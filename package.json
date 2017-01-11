@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bereczb/zerda-exam-web/issues"
   },
-  "homepage": "https://github.com/bereczb/zerda-exam-web#readme"
+  "homepage": "https://github.com/bereczb/zerda-exam-web#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
