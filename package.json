@@ -18,5 +18,8 @@
   "homepage": "https://github.com/bereczb/zerda-exam-web#readme",
   "dependencies": {
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
   }
 }
