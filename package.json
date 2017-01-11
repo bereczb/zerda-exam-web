@@ -1,0 +1,19 @@
+{
+  "name": "zerda-exam-web",
+  "version": "1.0.0",
+  "description": "- Fork this repository under your own account\r  - Clone the forked repository to your computer\r  - Commit your progress frequently and with descriptive commit messages\r  - All your answers and solutions should go in this repository",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bereczb/zerda-exam-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bereczb/zerda-exam-web/issues"
+  },
+  "homepage": "https://github.com/bereczb/zerda-exam-web#readme"
+}
